@@ -1,0 +1,96 @@
+[
+    {
+"name":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique",
+"price":"45.89",
+"description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati cum tenetur, a dicta repellendus vitae commodi quis doloremque possimus doloribus enim amet temporibus, minima, error expedita neque consequatur odio accusamus harum minus officia aliquid officiis hic quas. Voluptas provident repellendus quasi quod, modi eligendi consequuntur et molestiae dolor quam quis odit atque tempore, reiciendis alias perferendis sunt totam porro facilis dolorem corporis ducimus? Impedit, adipisci, modi sequi ex earum id iure tenetur culpa neque eveniet assumenda accusantium sapiente quia soluta vitae! Ut deserunt nulla doloribus recusandae, quidem mollitia eaque, id facere iure magnam consequatur labore nisi repellendus ab assumenda sequi?",
+"ratings":4.5,
+"images":[{
+    "public_id":"products/tzfs",
+    "url":"https://i.pcmag.com/imagery/reviews/00xTIwo4AQMjnWl4H4ctDCq-1..v1643394203.jpg"
+}],
+"category":"Electronics",
+"seller":"Ebay",
+"stock":50,
+"numOfReviews":32,
+"reviews":[]
+
+    },
+    {
+"name":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique",
+"price":"315.00",
+"description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati cum tenetur, a dicta repellendus vitae commodi quis doloremque possimus doloribus enim amet temporibus, minima, error expedita neque consequatur odio accusamus harum minus officia aliquid officiis hic quas. Voluptas provident repellendus quasi quod, modi eligendi consequuntur et molestiae dolor quam quis odit atque tempore, reiciendis alias perferendis sunt totam porro facilis dolorem corporis ducimus? Impedit, adipisci, modi sequi ex earum id iure tenetur culpa neque eveniet assumenda accusantium sapiente quia soluta vitae! Ut deserunt nulla doloribus recusandae, quidem mollitia eaque, id facere iure magnam consequatur labore nisi repellendus ab assumenda sequi?",
+"ratings":1.6,
+"images":[{
+    "public_id":"products/tzfs",
+    "url":"https://i.pcmag.com/imagery/reviews/00xTIwo4AQMjnWl4H4ctDCq-1..v1643394203.jpg"
+}],
+"category":"Electronics",
+"seller":"Amazon",
+"stock":0,
+"numOfReviews":2,
+"reviews":[]
+
+    },
+    {
+"name":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique",
+"price":"26.99",
+"description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati cum tenetur, a dicta repellendus vitae commodi quis doloremque possimus doloribus enim amet temporibus, minima, error expedita neque consequatur odio accusamus harum minus officia aliquid officiis hic quas. Voluptas provident repellendus quasi quod, modi eligendi consequuntur et molestiae dolor quam quis odit atque tempore, reiciendis alias perferendis sunt totam porro facilis dolorem corporis ducimus? Impedit, adipisci, modi sequi ex earum id iure tenetur culpa neque eveniet assumenda accusantium sapiente quia soluta vitae! Ut deserunt nulla doloribus recusandae, quidem mollitia eaque, id facere iure magnam consequatur labore nisi repellendus ab assumenda sequi?",
+"ratings":3.5,
+"images":[{
+    "public_id":"products/tzfs",
+    "url":"https://i.pcmag.com/imagery/reviews/00xTIwo4AQMjnWl4H4ctDCq-1..v1643394203.jpg"
+}],
+"category":"cameras",
+"seller":"Ebay",
+"stock":1,
+"numOfReviews":12,
+"reviews":[]
+
+    },
+    {
+"name":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique",
+"price":"45.89",
+"description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati cum tenetur, a dicta repellendus vitae commodi quis doloremque possimus doloribus enim amet temporibus, minima, error expedita neque consequatur odio accusamus harum minus officia aliquid officiis hic quas. Voluptas provident repellendus quasi quod, modi eligendi consequuntur et molestiae dolor quam quis odit atque tempore, reiciendis alias perferendis sunt totam porro facilis dolorem corporis ducimus? Impedit, adipisci, modi sequi ex earum id iure tenetur culpa neque eveniet assumenda accusantium sapiente quia soluta vitae! Ut deserunt nulla doloribus recusandae, quidem mollitia eaque, id facere iure magnam consequatur labore nisi repellendus ab assumenda sequi?",
+"ratings":4.5,
+"images":[{
+    "public_id":"products/tzfs",
+    "url":""
+}],
+"category":"Headphones",
+"seller":"Ebay",
+"stock":11,
+"numOfReviews":112,
+"reviews":[]
+
+    },
+    {
+"name":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique",
+"price":"45.89",
+"description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati cum tenetur, a dicta repellendus vitae commodi quis doloremque possimus doloribus enim amet temporibus, minima, error expedita neque consequatur odio accusamus harum minus officia aliquid officiis hic quas. Voluptas provident repellendus quasi quod, modi eligendi consequuntur et molestiae dolor quam quis odit atque tempore, reiciendis alias perferendis sunt totam porro facilis dolorem corporis ducimus? Impedit, adipisci, modi sequi ex earum id iure tenetur culpa neque eveniet assumenda accusantium sapiente quia soluta vitae! Ut deserunt nulla doloribus recusandae, quidem mollitia eaque, id facere iure magnam consequatur labore nisi repellendus ab assumenda sequi?",
+"ratings":5,
+"images":[
+    {
+    "public_id":"products/tzfs",
+    "url":"https://i.pcmag.com/imagery/reviews/00xTIwo4AQMjnWl4H4ctDCq-1..v1643394203.jpg"
+},
+    {
+    "public_id":"products/tzfs",
+    "url":"https://i.pcmag.com/imagery/reviews/00xTIwo4AQMjnWl4H4ctDCq-1..v1643394203.jpg"
+},
+    {
+    "public_id":"products/tzfs",
+    "url":"https://i.pcmag.com/imagery/reviews/00xTIwo4AQMjnWl4H4ctDCq-1..v1643394203.jpg"
+},
+    {
+    "public_id":"products/tzfs",
+    "url":"https://i.pcmag.com/imagery/reviews/00xTIwo4AQMjnWl4H4ctDCq-1..v1643394203.jpg"
+}
+],
+"category":"Food",
+"seller":"kauffman's Fruit Farm & arket",
+"stock":50,
+"numOfReviews":32,
+"reviews":[]
+
+    }
+]
